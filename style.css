@@ -58,3 +58,13 @@ nav p:hover{
     font-weight: bold;
     color: white;
 }
+.belowContent{
+    height: 100svh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.dim2{
+    background: rgba(0, 0, 0, 0.5);
+    height: 100svh;
+}
